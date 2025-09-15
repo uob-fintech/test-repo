@@ -10,7 +10,7 @@ description:        "We develop and apply methods from AI, Machine Learning (ML)
 
 
 # URL
-url:                https://uob-fintech.github.io/people
+url:                https://uob-fintech.github.io/test-repo/
 #baseurl:            https://uob-fintech.github.io/people
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
